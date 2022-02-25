@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KitKat2002
+- 👋 Hi, I’m @KitKat2002, she/her, 19
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing right now
